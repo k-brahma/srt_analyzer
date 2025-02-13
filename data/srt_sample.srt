@@ -1,0 +1,136 @@
+1
+00:00:00,280 --> 00:00:05,750
+A 2 day global summit is underway in Paris to discuss the future of artificial intelligence.
+
+2
+00:00:06,039 --> 00:00:14,550
+ The AI action summit is billed as a discussion on how to balance the development of the technology with its impact on society and the environment.
+
+3
+00:00:15,279 --> 00:00:23,719
+ Among those attending our US Vice President JD Vance, who arrived at Orly Airport in the French capital with family members on board Air Force 2.
+
+4
+00:00:24,200 --> 00:00:33,740
+ Uh, the Indian Prime Minister Narendra Modi is also in Paris as well as China's Vice Premier uh Dinghuweixi, uh, as well as the bosses of Google and OpenAI.
+
+5
+00:00:34,439 --> 00:00:37,080
+ Our AI correspondent Mark Chisla reports.
+
+6
+00:00:41,569 --> 00:00:49,009
+ A host of world leaders, top tech executives, and AI experts are gathering in Paris for the AI Action Summit.
+
+7
+00:00:49,439 --> 00:01:05,269
+ Discussions on AI safety and regulation will likely take a backseat as event organizers say the summit will be more concerned with immediate issues such as AI's effect on jobs and the environment, as well as AI's development for the betterment of humanity or the public good.
+
+8
+00:01:05,919 --> 00:01:07,519
+ For a week ahead of the AI action.
+
+9
+00:01:07,605 --> 00:01:13,745
+ The French government has laid on a number of scientific and cultural events like this art exhibition.
+
+10
+00:01:13,794 --> 00:01:25,745
+ A lot of the work here explores the opportunities but also talks about the race to become an AI global superpower, a theme that's likely to emerge at the summit itself.
+
+11
+00:01:28,180 --> 00:01:31,099
+ Against this background of global competition.
+
+12
+00:01:34,559 --> 00:01:36,989
+ What does the UK hope to get from the summit?
+
+13
+00:01:37,400 --> 00:01:45,989
+ All these senior people from government are coming together and they're going to be colliding together with the tech sector, but also those investors out there.
+
+14
+00:01:46,199 --> 00:02:17,119
+ So there's going to be a lot of conversations about where we are with safety, where the technology is going, the relationships, the global relationships, because AI is becoming an increasingly Important factor in global power, but my job is also to be going around to all of these people telling them about the scale of British ambition to talk about the investment opportunities that we have back there in Britain and ensuring that everybody who comes here leaves knowing full well just what the potential of Britain is in the digital age.
+
+15
+00:02:18,210 --> 00:02:21,350
+ The summit's hosted by French President Emmanuel Macron.
+
+16
+00:02:21,639 --> 00:02:22,610
+ Congratulations Mr.
+
+17
+00:02:23,839 --> 00:02:39,119
+ In attendance will be US Vice President JD Vance and tech CEOs Sam Altman of OpenAI and Sir Dennis Hassabis of Google DeepMind, as well as Chinese Vice Premier Zhang Guoqing, and Indian Prime Minister Narendra Modi co-chairing the whole event.
+
+18
+00:02:40,009 --> 00:02:49,940
+ But as policymakers debate the future, a new disruptive Chinese AI model, DeepSeek has shaken up the industry with its cheaper approach to developing the technology.
+
+19
+00:02:51,330 --> 00:02:59,309
+ Industry experts worry that competition between nations and tech companies could be to the detriment of developing this technology safely.
+
+20
+00:02:59,520 --> 00:03:09,029
+ The biggest challenge in Paris will likely be balancing this competition against the summit's ambition to support AI technology that benefits all humanity.
+
+21
+00:03:09,639 --> 00:03:11,660
+ Mark Chislack, BBC News.
+
+22
+00:03:12,300 --> 00:03:15,119
+ And let's join Mark live in Paris now.
+
+23
+00:03:15,330 --> 00:03:22,380
+ And Mark, just picking up on that point you made at the end of your report, there's a bit of an arms race, isn't there, frankly, in terms of AI development.
+
+24
+00:03:22,490 --> 00:03:26,089
+ So has the horse already bolted from the stable of regulation?
+
+25
+00:03:28,679 --> 00:03:40,630
+ Well, at the moment, one of the most interesting aspects of this particular summit has been looking at all of the vying for positions, seeing who is going to become the next global AI superpower.
+
+26
+00:03:40,839 --> 00:03:47,520
+ When we think about regulation and safety, a lot of those things have taken a bit of a backseat at this summit in comparison to the first AI summit.
+
+27
+00:03:47,764 --> 00:03:52,354
+ Bletchley Park in 2023 that was that was labeled as an AI safety summit.
+
+28
+00:03:52,395 --> 00:04:03,914
+ This is an AI action summit, but most interestingly, a lot of the industry experts that I've spoken to people at the very, very top of their game, quite a few of them have said that safety is still a massive concern.
+
+29
+00:04:03,955 --> 00:04:06,615
+ It's an issue that hasn't yet been fully resolved.
+
+30
+00:04:07,130 --> 00:04:17,988
+ Yes, because if they say that part of the mission for these two days is to think about AI's impact on society, on the environment, well, naturally safety is part of that, isn't it?
+
+31
+00:04:18,480 --> 00:04:21,519
+ So how consequential will these two days be?
+
+32
+00:04:21,600 --> 00:04:25,239
+ Can we expect any sort of joint statement at the end of them?
+
+33
+00:04:27,450 --> 00:04:33,109
+ Yeah, there's very likely there will be a declaration at the end of the event, but there isn't going to be anything new on regulation.
+
+34
+00:04:33,329 --> 00:04:53,000
+ The most important thing about events like these is bringing together people from politics, bringing together people from technology, people that have the ability to change the dial, the decision makers, putting them all in the same space and letting them have a conversation about where this technology might go in the next few years, and more importantly, how it might benefit all of our lives.
+
