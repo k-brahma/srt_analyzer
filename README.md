@@ -20,8 +20,8 @@
 1. リポジトリをクローンします。
 
    ```bash
-   git clone https://github.com/k-brahma/srt-vocab-extractor.git
-   cd srt-vocab-extractor
+   git clone https://github.com/k-brahma/srt_analyzer.git
+   cd srt_analyzer
    ```
 
 2. 必要なPythonパッケージをインストールします。
